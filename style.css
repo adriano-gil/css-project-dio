@@ -111,6 +111,7 @@ header {
 #course-content > p {
 
     font-size: 16px;
+    max-width: 800px;
     font-family: 'Segoe UI', sans-serif;
     width: 80%;
     margin-bottom: 25px;
@@ -196,6 +197,7 @@ header {
 }
 
 #professional-challenges > p {
+    max-width: 900px;
     width: 80%;
     padding: 40px;
     font-size: 16px;
@@ -224,8 +226,9 @@ footer > img {
 }
 
 footer > p {
+    
     text-align: center;
-    width: 80%;
+    
     background-color: transparent;
     font-family: 'Segoe UI', sans-serif;
     font-weight: bold;
